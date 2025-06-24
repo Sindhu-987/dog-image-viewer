@@ -15,7 +15,7 @@ A simple web app that displays random dog images using the [Dog CEO API](https:/
 Clone this repo and open `index.html` in browser, or deploy on Netlify/Vercel.
 
 ## 🔗 Live Demo
-[Live Demo URL]([https://your-demo-url.com](https://sindhu-987.github.io/dog-image-viewer/))
+[Live Demo URL](https://sindhu-987.github.io/dog-image-viewer/)
 
 ## 📌 How It Works
 - Loads all breeds from the API and populates a dropdown.
